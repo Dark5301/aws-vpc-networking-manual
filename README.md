@@ -15,7 +15,7 @@ This project demonstrates a manual setup of a secure, scalable VPC architecture 
 
 ## 🗺️ Architecture Diagram
 
-![Architecture](architecture.png)
+![Architecture](Architecture.png)
 
 ## 🔐 Key Concepts
 
